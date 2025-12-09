@@ -6,7 +6,7 @@
 
 Repositori ini berisi kode sumber eksperimental (*source code*) untuk penelitian artikel ilmiah berjudul:
 
-> **"Analisis Efisiensi Algoritma Interpolation Search Berbasis Pendekatan Decrease and Conquer untuk Optimasi Retrieval Data Inventaris E-Commerce Berskala Besar"**
+> **"Peningkatan Efisiensi Retrieval Inventaris dengan Interpolation Search Decrease and Conquer"**
 
 ## 📋 Tentang Penelitian
 Penelitian ini membandingkan kinerja tiga algoritma pencarian dalam konteks manajemen inventaris gudang (*Warehouse Management System*):
